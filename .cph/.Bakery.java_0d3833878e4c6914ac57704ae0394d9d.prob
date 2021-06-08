@@ -1,0 +1,1 @@
+{"name":"Local: Bakery","url":"c:\\Users\\ishika\\Desktop\\graph\\Bakery.java","tests":[{"id":1623093319420,"input":"3 7 0\n1 3 9\n1 2 5\n1 2 21\n1 2 12\n1 2 13\n2 3 19\n2 3 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ishika\\Desktop\\graph\\Bakery.java","group":"local","local":true}
