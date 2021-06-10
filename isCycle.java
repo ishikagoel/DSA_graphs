@@ -1,10 +1,8 @@
-package graphs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
-
 public class isCycle 
 {
 	static class Node
@@ -16,7 +14,6 @@ public class isCycle
 			this.parent=parent;
 		}
 	}
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

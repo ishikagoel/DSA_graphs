@@ -1,0 +1,1 @@
+{"name":"Local: labyrinth","url":"c:\\Users\\ishika\\Desktop\\graph\\labyrinth.java","tests":[{"id":1623165669196,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ishika\\Desktop\\graph\\labyrinth.java","group":"local","local":true}

@@ -49,12 +49,9 @@ public class Bakery {
         int[] vis = new int[n + 1];
         Arrays.fill(vis, -1);
         int value = Integer.MAX_VALUE;
-        // System.out.println(storage);
         for (int i = 0; i < storage.size(); i++) {
             for (edge it : arr.get(ss[i])) {
-                // System.out.println(it.city + " " + it.parent + " " + it.length);
                 if ((!storage.contains(it.city))) {
-                    // System.out.println("***");
                     value = Math.min(value, it.length);
                 }
             }
